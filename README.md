@@ -11,4 +11,6 @@ The dataset is described in detail in our paper (P. Zheng, A. Zhang, J. Chen, J.
 
 You can use 'VExtractData.m' to extract velocity point cloud maps.
 
+ If you use this dataset, please cite our paper or this github URL in your paper.
+
 If you have any questions, please contact me via email(zhengpengfei_1994@163.com). Besides, if you are interested in my research, please contact me and collaborate.
